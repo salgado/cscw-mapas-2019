@@ -1,1 +1,1 @@
-# cscw-mapas-2019
+# cscw-2019-mapas-template
